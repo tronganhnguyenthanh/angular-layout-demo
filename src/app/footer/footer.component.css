@@ -1,0 +1,15 @@
+/* Footer */
+.footer{
+  width:100%;
+  height:auto;
+  border:1px solid black;
+  background-color:black;
+}
+/* Heading */
+h1{
+ font-family: 'Roboto', sans-serif;
+}
+/* Paragraph */
+p{
+ font-family: 'Roboto', sans-serif;
+}
